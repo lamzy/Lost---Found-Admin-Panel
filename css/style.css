@@ -1,0 +1,19 @@
+.limit-side-width{
+	max-width: 280px;
+}
+.limit-container-width{
+	max-width: 820px;
+}
+.side-hr{
+	
+	
+	 margin:1px;
+}
+.div-clear{
+	clear: both;
+}
+.hr-panel{
+	border:0;
+	background-color:white;
+	height:5px;
+}
